@@ -6,11 +6,11 @@ Team members - Abhronil Dutta, Siddharth Chowdhury, Sumukh Gowda, Harshil Amithi
 
 Roles - 
 
-Abhronil Dutta - Project Lead, Coder \n
-Siddharth Chowdhury - Mechanic \n
-Sumukh Gowda - Documentation, Photography \n
-Harshil Amithineni - Documentation \n
-Omar Albaker - Mechanic \n
+Abhronil Dutta - Project Lead, Coder 
+Siddharth Chowdhury - Mechanic 
+Sumukh Gowda - Documentation, Photography 
+Harshil Amithineni - Documentation 
+Omar Albaker - Mechanic 
 
 # Working 
 Automatic.m - Automatic maze solver
