@@ -12,3 +12,7 @@ Sumukh Gowda - Documentation, Photography
 Harshil Amithineni - Documentation
 Omar Albaker - Mechanic
 
+# Working 
+Automatic.m - Automatic maze solver
+Keyboard.m - Manual control
+
